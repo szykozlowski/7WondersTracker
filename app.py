@@ -4,6 +4,14 @@ import altair as alt
 import json
 import time
 
+import os.path
+
+from google.auth.transport.requests import Request
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
+
 # dec index
 def get_prev_game():
     if st.session_state["gameIndex"] > 0:
@@ -355,6 +363,7 @@ def chart_page():
 
 # plot pie chart visualizing synergies
 def plot_synergies(breakdown, points):
+    print(breakdown)
     normalized = {category: (value / points) * 100 for category, value in breakdown.items()}
     data = pd.DataFrame(list(normalized.items()), columns=["Category", "Points"])
 
@@ -551,6 +560,69 @@ def rename():
         
         st.info("Success!")
 
+def upload_sheet():
+
+    SHEET_ID = st.session_state["sheet_name"]
+    SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
+
+
+    creds = None
+
+    if os.path.exists("token.json"):
+        creds = Credentials.from_authorized_user_file("token.json", SCOPES)
+
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+        else:
+            flow = InstalledAppFlow.from_client_secrets_file(
+                "credentials2.json", SCOPES
+            )
+            creds = flow.run_local_server(port=0)
+            with open("token.json", "w") as token:
+                token.write(creds.to_json())
+    try:
+        service = build("sheets", "v4", credentials=creds)
+        sheet = service.spreadsheets()
+
+        spreadsheet = service.spreadsheets().get(spreadsheetId=SHEET_ID).execute()
+        sheets = spreadsheet.get("sheets", [])
+        sheet_names = [sheet["properties"]["title"] for sheet in sheets]
+
+        Games = []
+
+        game_num = 0
+        for name in sheet_names[1::]:
+            SAMPLE_RANGE_NAME = name + "!A2:K8"
+            result = (
+            sheet.values()
+            .get(spreadsheetId=SHEET_ID, range=SAMPLE_RANGE_NAME)
+            .execute()
+        )
+            players = []
+            
+            for player in result['values']:
+                breakdown = {
+                        "Wonders": int(player[3]),
+                        "Gold": int(player[4]),
+                        "War": int(player[5]),
+                        "Blue": int(player[6]),
+                        "Yellow": int(player[7]),
+                        "Green": int(player[8]),
+                        "Purple": int(player[9])
+                    }
+                players.append({"Name":player[0],"Score":int(player[10]),"City":player[1] + " " + player[2],"Breakdown":breakdown})
+
+            Games.append({"Number": game_num, "Players": players})
+            game_num += 1
+
+        final_games = {"Games":Games}
+        with open("games.json", "w") as f:
+            json.dump(final_games, f, indent=4)
+
+    except HttpError as err:
+        print(err)
+
 # download CSV file
 @st.dialog("Export Data")
 def download():
@@ -635,6 +707,17 @@ def manage_data():
 
     # data download
     st.button("Export Data", on_click=download, use_container_width=True)
+
+    with st.expander("Upload Game From Google Sheets"):
+
+
+        # name select
+
+        st.session_state["sheet_name"] = st.text_input(label="Sheet ID:")
+
+        # submit
+        st.button("Submit Sheet", on_click=upload_sheet, use_container_width=True)
+
 
     # data upload
     uploaded = st.file_uploader(label="Upload Game Data", type="json", accept_multiple_files=False)
