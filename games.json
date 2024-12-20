@@ -1,0 +1,1484 @@
+{
+    "Games": [
+        {
+            "Number": 1,
+            "Players": [
+                {
+                    "Name": "Szymon",
+                    "Score": 46,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 42,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Blake",
+                    "Score": 42,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 32,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 2,
+            "Players": [
+                {
+                    "Name": "Anson",
+                    "Score": 66,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 64,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 56,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Zoey",
+                    "Score": 53,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 49,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 47,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 3,
+            "Players": [
+                {
+                    "Name": "Chloe",
+                    "Score": 68,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 61,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Zoey",
+                    "Score": 53,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 53,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Anson",
+                    "Score": 52,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 32,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 4,
+            "Players": [
+                {
+                    "Name": "Chloe",
+                    "Score": 52,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 47,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 46,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Collin",
+                    "Score": 39,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 31,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 5,
+            "Players": [
+                {
+                    "Name": "Chloe",
+                    "Score": 49,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 41,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 41,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 40,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Collin",
+                    "Score": 37,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 6,
+            "Players": [
+                {
+                    "Name": "Michael",
+                    "Score": 45,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 45,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 41,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 35,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Jason",
+                    "Score": 28,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Aaron",
+                    "Score": 26,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 7,
+            "Players": [
+                {
+                    "Name": "Szymon",
+                    "Score": 64,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 50,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 39,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 38,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Blake",
+                    "Score": 36,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 35,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 8,
+            "Players": [
+                {
+                    "Name": "Michael",
+                    "Score": 55,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Anson",
+                    "Score": 50,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 47,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 45,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Zoey",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 42,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 41,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 9,
+            "Players": [
+                {
+                    "Name": "Michael",
+                    "Score": 72,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 54,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 50,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 39,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Blake",
+                    "Score": 30,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 25,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 10,
+            "Players": [
+                {
+                    "Name": "Chloe",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 43,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Collin",
+                    "Score": 37,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 25,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 22,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "CJ",
+                    "Score": 20,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 11,
+            "Players": [
+                {
+                    "Name": "Blake",
+                    "Score": 65,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 49,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 48,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 46,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 40,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 34,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 12,
+            "Players": [
+                {
+                    "Name": "Blake",
+                    "Score": 58,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 57,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 45,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 44,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 37,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 0,
+                        "Blue": 0,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 12,
+            "Players": [
+                {
+                    "Name": "Amanda",
+                    "Score": 71,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 7,
+                        "Gold": 3,
+                        "War": 16,
+                        "Blue": 23,
+                        "Yellow": 3,
+                        "Green": 0,
+                        "Purple": 17
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 56,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 6,
+                        "War": 12,
+                        "Blue": 13,
+                        "Yellow": 7,
+                        "Green": 0,
+                        "Purple": 8
+                    }
+                },
+                {
+                    "Name": "Zoey",
+                    "Score": 52,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 20,
+                        "Gold": 0,
+                        "War": 6,
+                        "Blue": 17,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 9
+                    }
+                },
+                {
+                    "Name": "Anson",
+                    "Score": 51,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 8,
+                        "War": -6,
+                        "Blue": 13,
+                        "Yellow": 4,
+                        "Green": 16,
+                        "Purple": 6
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 48,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 7,
+                        "Gold": 4,
+                        "War": 11,
+                        "Blue": 12,
+                        "Yellow": 8,
+                        "Green": 0,
+                        "Purple": 6
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 43,
+                    "City": "?",
+                    "Breakdown": {
+                        "Wonders": 3,
+                        "Gold": 6,
+                        "War": -2,
+                        "Blue": 4,
+                        "Yellow": 6,
+                        "Green": 26,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 13,
+            "Players": [
+                {
+                    "Name": "Michael",
+                    "Score": 61,
+                    "City": "Ephesus Night",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 14,
+                        "War": 8,
+                        "Blue": 17,
+                        "Yellow": 12,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Anson",
+                    "Score": 61,
+                    "City": "Halicarnassus Night",
+                    "Breakdown": {
+                        "Wonders": 3,
+                        "Gold": 8,
+                        "War": 15,
+                        "Blue": 31,
+                        "Yellow": 0,
+                        "Green": 4,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 57,
+                    "City": "Olympia Day",
+                    "Breakdown": {
+                        "Wonders": 3,
+                        "Gold": 4,
+                        "War": -6,
+                        "Blue": 12,
+                        "Yellow": 2,
+                        "Green": 31,
+                        "Purple": 11
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 51,
+                    "City": "Alexandria Day",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 1,
+                        "War": 8,
+                        "Blue": 24,
+                        "Yellow": 1,
+                        "Green": 0,
+                        "Purple": 7
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 46,
+                    "City": "Giza Day",
+                    "Breakdown": {
+                        "Wonders": 13,
+                        "Gold": 4,
+                        "War": 2,
+                        "Blue": 7,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 18
+                    }
+                },
+                {
+                    "Name": "Zoey",
+                    "Score": 41,
+                    "City": "Rhodes Night",
+                    "Breakdown": {
+                        "Wonders": 7,
+                        "Gold": 5,
+                        "War": 11,
+                        "Blue": 8,
+                        "Yellow": 10,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 36,
+                    "City": "Babylon Night",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 0,
+                        "War": 12,
+                        "Blue": 6,
+                        "Yellow": 0,
+                        "Green": 18,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 14,
+            "Players": [
+                {
+                    "Name": "Anson",
+                    "Score": 65,
+                    "City": "Babylon Night",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 5,
+                        "War": 0,
+                        "Blue": 7,
+                        "Yellow": 0,
+                        "Green": 48,
+                        "Purple": 5
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 57,
+                    "City": "Ephesus Day",
+                    "Breakdown": {
+                        "Wonders": 5,
+                        "Gold": 6,
+                        "War": 4,
+                        "Blue": 35,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 7
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 57,
+                    "City": "Rhodes Day",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 5,
+                        "War": 6,
+                        "Blue": 20,
+                        "Yellow": 9,
+                        "Green": 0,
+                        "Purple": 7
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 54,
+                    "City": "Giza Night",
+                    "Breakdown": {
+                        "Wonders": 13,
+                        "Gold": 5,
+                        "War": 13,
+                        "Blue": 11,
+                        "Yellow": 4,
+                        "Green": 0,
+                        "Purple": 8
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 50,
+                    "City": "Halicarnassus Day",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 6,
+                        "War": 12,
+                        "Blue": 12,
+                        "Yellow": 0,
+                        "Green": 10,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Zoey",
+                    "Score": 50,
+                    "City": "Olympia Day",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 2,
+                        "War": -4,
+                        "Blue": 22,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 20
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 42,
+                    "City": "Alexandria Night",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 1,
+                        "War": 2,
+                        "Blue": 15,
+                        "Yellow": 3,
+                        "Green": 21,
+                        "Purple": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Number": 15,
+            "Players": [
+                {
+                    "Name": "Anson",
+                    "Score": 71,
+                    "City": "Halicarnassus Night",
+                    "Breakdown": {
+                        "Wonders": 3,
+                        "Gold": 2,
+                        "War": -6,
+                        "Blue": 3,
+                        "Yellow": 0,
+                        "Green": 62,
+                        "Purple": 7
+                    }
+                },
+                {
+                    "Name": "Chloe",
+                    "Score": 62,
+                    "City": "Olympia Night",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 12,
+                        "War": 7,
+                        "Blue": 13,
+                        "Yellow": 10,
+                        "Green": 0,
+                        "Purple": 10
+                    }
+                },
+                {
+                    "Name": "Michael",
+                    "Score": 57,
+                    "City": "Ephesus Day",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 3,
+                        "War": 18,
+                        "Blue": 20,
+                        "Yellow": 0,
+                        "Green": 1,
+                        "Purple": 5
+                    }
+                },
+                {
+                    "Name": "Szymon",
+                    "Score": 53,
+                    "City": "Babylon Night",
+                    "Breakdown": {
+                        "Wonders": 0,
+                        "Gold": 5,
+                        "War": 6,
+                        "Blue": 19,
+                        "Yellow": 6,
+                        "Green": 17,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Kevin",
+                    "Score": 46,
+                    "City": "Giza Night",
+                    "Breakdown": {
+                        "Wonders": 20,
+                        "Gold": 5,
+                        "War": 0,
+                        "Blue": 21,
+                        "Yellow": 0,
+                        "Green": 0,
+                        "Purple": 0
+                    }
+                },
+                {
+                    "Name": "Zoey",
+                    "Score": 40,
+                    "City": "Alexandria Day",
+                    "Breakdown": {
+                        "Wonders": 10,
+                        "Gold": 3,
+                        "War": 6,
+                        "Blue": 9,
+                        "Yellow": 3,
+                        "Green": 0,
+                        "Purple": 7
+                    }
+                },
+                {
+                    "Name": "Amanda",
+                    "Score": 30,
+                    "City": "Rhodes Day",
+                    "Breakdown": {
+                        "Wonders": 3,
+                        "Gold": 0,
+                        "War": 7,
+                        "Blue": 14,
+                        "Yellow": 2,
+                        "Green": 0,
+                        "Purple": 4
+                    }
+                }
+            ]
+        }
+    ]
+}
