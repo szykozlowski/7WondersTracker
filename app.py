@@ -567,6 +567,27 @@ def upload_sheet():
 
 
     creds = None
+    credentials_dict = st.secrets["credentials"]
+    credentials_dict = dict(credentials_dict)
+
+    temp_credentials = {
+        "installed": {
+            "client_id": credentials_dict["client_id"],
+            "project_id": credentials_dict["project_id"],
+            "auth_uri": credentials_dict["auth_uri"],
+            "token_uri": credentials_dict["token_uri"],
+            "auth_provider_x509_cert_url": credentials_dict["auth_provider_x509_cert_url"],
+            "client_secret": credentials_dict["client_secret"],
+            "redirect_uris": credentials_dict.get("redirect_uris", "").splitlines(),
+        }
+    }
+
+    credentials_json = json.dumps(temp_credentials)
+
+    temp_cred_file = "temp_credentials.json"
+    with open(temp_cred_file, "w") as f:
+        f.write(credentials_json)
+
 
     if os.path.exists("token.json"):
         creds = Credentials.from_authorized_user_file("token.json", SCOPES)
@@ -576,7 +597,7 @@ def upload_sheet():
             creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
-                "credentials2.json", SCOPES
+                "temp_credentials.json", SCOPES
             )
             creds = flow.run_local_server(port=0)
             with open("token.json", "w") as token:
