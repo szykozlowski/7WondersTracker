@@ -1,4 +1,5 @@
 # Anson Fong
 # 7 Wonders Tracker
 
-lol
+- install dependencies in requirements.txt
+- "python3 run.py" to run
