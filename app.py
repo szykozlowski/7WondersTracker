@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 import json
 import time
-
+import webbrowser
 import os.path
 
 from google.auth.transport.requests import Request
@@ -11,6 +11,8 @@ from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+
+from google.oauth2 import service_account
 
 # dec index
 def get_prev_game():
@@ -596,14 +598,19 @@ def upload_sheet():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                "temp_credentials.json", SCOPES
-            )
-            creds = flow.run_local_server(port=0)
-            with open("token.json", "w") as token:
-                token.write(creds.to_json())
+
+            credentials = st.secrets["credentials2"]
+
+            credentials_dict = dict(credentials)
+
+            temp_credentials_path = "temp_credentials.json"
+            with open(temp_credentials_path, "w") as f:
+                json.dump(credentials_dict, f)
+
+            credentials = service_account.Credentials.from_service_account_file(temp_credentials_path, scopes=SCOPES)
+    
     try:
-        service = build("sheets", "v4", credentials=creds)
+        service = build("sheets", "v4", credentials=credentials)
         sheet = service.spreadsheets()
 
         spreadsheet = service.spreadsheets().get(spreadsheetId=SHEET_ID).execute()
@@ -621,7 +628,7 @@ def upload_sheet():
             .execute()
         )
             players = []
-            
+            game_num += 1
             for player in result['values']:
                 breakdown = {
                         "Wonders": int(player[3]),
@@ -635,12 +642,15 @@ def upload_sheet():
                 players.append({"Name":player[0],"Score":int(player[10]),"City":player[1] + " " + player[2],"Breakdown":breakdown})
 
             Games.append({"Number": game_num, "Players": players})
-            game_num += 1
+            
 
         final_games = {"Games":Games}
         with open("games.json", "w") as f:
             json.dump(final_games, f, indent=4)
 
+        st.session_state["gameCount"] = game_num
+        st.session_state["gameIndex"] = game_num - 1
+        
     except HttpError as err:
         print(err)
 
